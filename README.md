@@ -1,18 +1,16 @@
-# Projetos de Programação Orientada a Objetos
-
-Este repositório contém os projetos cobrados em sala de aula na disciplina de POO no período 2023.2 na UFPI
+## Trabalhos
 
 1. **Sistema simples de controle de estoque de um mercado**
-   - Criar familiaridade com Java
+   - O objetivo foi criar familiaridade com Java
   
 2. **Estoque de um mercado com produtos normais e perecíveis**
-    - Aprendizado sobre hierarquia na orientação a objetos
+    - Expande o projeto anterior, fomentando o aprendizado sobre hierarquia na orientação a objetos
 
-3. **Estoque de um mercado com exceções**
-    - Implementação de exceções no código e como lidar com elas
+3. **Estoque de um mercado com tratamento de exceções**
+    - Expande o projeto anterior com a implementação de exceções personalizadas no código e como lidar com elas, tornando o código melhor
   
 4. **Associação**
-   - Implementar sistema de associação e seus associados com tudo que foi aprendido anteriormente
+   - Esse trabalho serviu como uma prova para a disciplina, em que foi preciso implementar um sistema de associação com controle de associados, taxas e reuniões com tudo que foi aprendido anteriormente
   
 5. **Associação com BD**
-   - Refazer o projeto anterior usando banco de dados ao invés de ArrayList
+   - O último projeto consistiu em refazer o trabalho anterior usando banco de dados ao invés de ArrayList
