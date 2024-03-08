@@ -22,7 +22,7 @@
   </li>
 
    <li>
-    <h3><a href="https://github.com/rafaell-mns/projetos-POO/tree/main/associacao"> 📁 Associação com Banco de Dados </a></h3>
+    <h3><a href="https://github.com/rafaell-mns/projetos-POO/tree/main/associacaoBD"> 📁 Associação com Banco de Dados </a></h3>
     <ul> <li> O último projeto consistiu em refazer o trabalho anterior usando banco de dados ao invés de ArrayList </li> </ul>
   </li>
 </ul>
